@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ETHNUS-Age-Calculator/static/css/main.62df1efe.css",
+    "main.js": "/ETHNUS-Age-Calculator/static/js/main.7f83871c.js",
+    "index.html": "/ETHNUS-Age-Calculator/index.html",
+    "main.62df1efe.css.map": "/ETHNUS-Age-Calculator/static/css/main.62df1efe.css.map",
+    "main.7f83871c.js.map": "/ETHNUS-Age-Calculator/static/js/main.7f83871c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62df1efe.css",
+    "static/js/main.7f83871c.js"
+  ]
+}
